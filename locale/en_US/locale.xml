@@ -29,3 +29,21 @@
 	<message key="plugins.generic.oauth.externalLogIn">Login with:</message>
 	<message key="plugins.generic.oauth.submitAction">{$oauthAppName} Login</message>
 </locale>
+
+<locale name="pt_BR" full_name="Português Brasil">
+	<message key="plugins.generic.oauth.name">OAuth plugin</message>
+	<message key="plugins.generic.oauth.submitAction">{$oauthAppName} Login</message>
+	<message key="plugins.generic.oauth.oauthApps">Aplicativos OAuth</message>
+	<message key="plugins.generic.oauth.oauthApps.noneCreated">Não foi adcionado nenhum aplicativo OAuth.</message>
+	<message key="plugins.generic.oauth.addOauthApp">Adicionar um Aplicativo OAuth</message>
+	<message key="plugins.generic.oauth.oauthApp.settings.description">Favor preencher os campos requeridos para habilitar o login com o aplicativo desejado:</message>
+	<message key="plugins.generic.oauth.oauthApp.settings.oauthAppName">Nome do Aplicativo</message>
+	<message key="plugins.generic.oauth.oauthApp.settings.oauthAPIAuth">URL de autorização</message>
+	<message key="plugins.generic.oauth.oauthApp.settings.oauthAPIVerify">URL do Token</message>
+	<message key="plugins.generic.oauth.oauthApp.settings.oauthClientId">ID do Cliente/message>
+	<message key="plugins.generic.oauth.oauthApp.settings.oauthClientSecret">Cliente secreto</message>
+	<message key="plugins.generic.oauth.oauthApp.settings.oauthUniqueId">ID ùnico retornado</message>
+	<message key="plugins.generic.oauth.oauthApp.settings.oauthScope">Abrangência</message>
+	<message key="plugins.generic.oauth.externalLogIn">Entrar com:</message>
+	<message key="plugins.generic.oauth.submitAction">{$oauthAppName} Login</message>
+</locale>
