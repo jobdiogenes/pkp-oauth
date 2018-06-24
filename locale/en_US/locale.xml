@@ -14,6 +14,7 @@
 
 <locale name="en_US" full_name="U.S. English">
 	<message key="plugins.generic.oauth.name">OAuth plugin</message>
+	<message key="plugins.generic.oauth.description">This plugin provides support to OAuth services like (Google, Facebook, ORCID).</message>
 	<message key="plugins.generic.oauth.submitAction">{$oauthAppName} Login</message>
 	<message key="plugins.generic.oauth.oauthApps">OAuth Applications</message>
 	<message key="plugins.generic.oauth.oauthApps.noneCreated">No OAuth applications have been created.</message>
