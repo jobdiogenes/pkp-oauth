@@ -11,6 +11,7 @@
   -->
 <locale name="pt_BR" full_name="Português Brasil">
 	<message key="plugins.generic.oauth.name">OAuth plugin</message>
+	<message key="plugins.generic.oauth.description">Este plugin fornece suporte a Login usando serviços OAuth (Google, Facebook, ORCID).</message>
 	<message key="plugins.generic.oauth.submitAction">{$oauthAppName} Login</message>
 	<message key="plugins.generic.oauth.oauthApps">Aplicativos OAuth</message>
 	<message key="plugins.generic.oauth.oauthApps.noneCreated">Não foi adcionado nenhum aplicativo OAuth.</message>
