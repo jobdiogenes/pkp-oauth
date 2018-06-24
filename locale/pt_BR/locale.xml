@@ -1,3 +1,15 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * plugins/generic/locale/pt_BR/locale.xml
+  *
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Localization strings 
+  * Translated by Job Diogenes Ribeiro Borges
+  -->
 <locale name="pt_BR" full_name="Português Brasil">
 	<message key="plugins.generic.oauth.name">OAuth plugin</message>
 	<message key="plugins.generic.oauth.submitAction">{$oauthAppName} Login</message>
