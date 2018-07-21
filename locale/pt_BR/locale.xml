@@ -22,7 +22,7 @@
 	<message key="plugins.generic.oauth.oauthApp.settings.oauthAPIVerify">URL do Token</message>
 	<message key="plugins.generic.oauth.oauthApp.settings.oauthClientId">ID do Cliente/message>
 	<message key="plugins.generic.oauth.oauthApp.settings.oauthClientSecret">Cliente secreto</message>
-	<message key="plugins.generic.oauth.oauthApp.settings.oauthUniqueId">ID ùnico retornado</message>
+	<message key="plugins.generic.oauth.oauthApp.settings.oauthUniqueId">ID único retornado</message>
 	<message key="plugins.generic.oauth.oauthApp.settings.oauthScope">Abrangência</message>
 	<message key="plugins.generic.oauth.externalLogIn">Login com:</message>
 	<message key="plugins.generic.oauth.submitAction">{$oauthAppName} Login</message>
